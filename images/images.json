@@ -1,0 +1,20 @@
+[
+    {
+        "src": "images/nature1.jpg",
+        "title": "Природа 1",
+        "description": "Описание изображения природы 1.",
+        "tags": ["nature"]
+    },
+    {
+        "src": "images/city1.jpg",
+        "title": "Город 1",
+        "description": "Описание изображения города 1.",
+        "tags": ["city"]
+    },
+    {
+        "src": "images/people1.jpg",
+        "title": "Люди 1",
+        "description": "Описание изображения людей 1.",
+        "tags": ["people"]
+    }
+]
